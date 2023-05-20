@@ -1,0 +1,2 @@
+Git is a source code Management tool
+MAven is a build tool
